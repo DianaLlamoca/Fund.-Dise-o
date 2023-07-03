@@ -8,7 +8,7 @@ void loop() {
   delay(500);
 }
 '''
-pip install pyserial
+#pip install pyserial
 
 import streamlit as st
 import serial
