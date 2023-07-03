@@ -1,0 +1,7 @@
+pyserial
+streamlit
+pyserial
+matplotlib
+pandas
+serial
+time
